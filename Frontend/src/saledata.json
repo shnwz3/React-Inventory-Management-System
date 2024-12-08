@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "ProductName": "Laptop",
+      "Category": "Electronics",
+      "StockSold": 10,
+      "SaleDate": "2024-11-28",
+      "TotalSaleAmount": 50000
+    },
+    {
+      "id": "2",
+      "ProductName": "Smartphone",
+      "Category": "Phones",
+      "StockSold": 20,
+      "SaleDate": "2024-11-27",
+      "TotalSaleAmount": 40000
+    },
+    {
+      "id": "3",
+      "ProductName": "Chips",
+      "Category": "Snacks",
+      "StockSold": 100,
+      "SaleDate": "2024-11-26",
+      "TotalSaleAmount": 5000
+    }
+  ]
+  
